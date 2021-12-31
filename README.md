@@ -7,3 +7,10 @@ Li, W., & Du, Q. (2014). Gabor-filtering-based nearest regularized subspace for 
 ## Data
 Download Indian Pines and Pavia University scene dataset from the link below.
 http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
+## Final Results
+
+![Screenshot](Capture.jpg)
+
+
+![Screenshot](Capture0.jpg)
